@@ -1,5 +1,5 @@
-### Deploy on Surge !!
-- aslambaba-endurance-project.surge.sh
+### Deploy on Netlify !!
+- aslambaba-endurance-project.netlify.app
 
 ### Using Languages
 - HTML5
